@@ -5,8 +5,8 @@
       {
         "name": "Whatsapp1",
         "id": "com.whatsapp",
-        "icon": "https://github.com/pratikjksol/apps/raw/master/images/com.whatsapp/Whatsapp-icon.png",
-        "banner": "https://github.com/pratikjksol/apps/raw/master/images/com.whatsapp/whatsapp_banner.jpg",
+        "icon": "https://raw.githubusercontent.com/appsjk/apps/master/com.whatsapp.whatsapp/Whatsapp-icon.png",
+        "banner": "https://raw.githubusercontent.com/appsjk/apps/master/com.whatsapp.whatsapp/whatsapp_banner.jpg",
         "desc": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. "
       },
       {
