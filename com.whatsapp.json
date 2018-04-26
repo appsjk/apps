@@ -1,0 +1,51 @@
+{
+  "adType": "1",
+  "custom": {
+    "banner": [
+      {
+        "name": "Whatsapp1",
+        "id": "com.whatsapp",
+        "icon": "https://raw.githubusercontent.com/appsjk/apps/master/com.whatsapp.whatsapp/Whatsapp-icon.png",
+        "banner": "https://raw.githubusercontent.com/appsjk/apps/master/com.whatsapp.whatsapp/whatsapp_banner.jpg",
+        "desc": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. "
+      },
+      {
+        "name": "Whatsapp2",
+        "id": "com.whatsapp",
+        "icon": "https://farm1.staticflickr.com/962/26844762397_200494bc98_m.jpg",
+        "banner": "https://farm1.staticflickr.com/948/41672603192_6933e4fdeb_z.jpg",
+        "desc": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. "
+      },
+      {
+        "name": "Whatsapp3",
+        "id": "com.whatsapp",
+        "icon": "https://farm1.staticflickr.com/962/26844762397_200494bc98_m.jpg",
+        "banner": "https://farm1.staticflickr.com/948/41672603192_6933e4fdeb_z.jpg",
+        "desc": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. "
+      }
+    ],
+    "interstial": [
+      {
+        "name": "Whatsapp4",
+        "id": "com.whatsapp",
+        "icon": "https://farm1.staticflickr.com/962/26844762397_200494bc98_m.jpg",
+        "banner": "https://farm1.staticflickr.com/948/41672603192_6933e4fdeb_z.jpg",
+        "desc": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. "
+      },
+      {
+        "name": "Whatsapp5",
+        "id": "com.whatsapp",
+        "icon": "https://farm1.staticflickr.com/962/26844762397_200494bc98_m.jpg",
+        "banner": "https://farm1.staticflickr.com/948/41672603192_6933e4fdeb_z.jpg",
+        "desc": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. "
+      },
+      {
+        "name": "Whatsapp6",
+        "id": "com.whatsapp",
+        "icon": "https://farm1.staticflickr.com/962/26844762397_200494bc98_m.jpg",
+        "banner": "https://farm1.staticflickr.com/948/41672603192_6933e4fdeb_z.jpg",
+        "desc": "WhatsApp Messenger is a FREE messaging app available for Android and other smartphones. "
+      }
+    ]
+  }
+}
